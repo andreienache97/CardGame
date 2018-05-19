@@ -1,7 +1,7 @@
 # CardGame
 
  
-Design, implement and document a simple card game in the Java programming language. You are advised that in order to accomplish this assessment correctly you should use the techniques regarding class structure, object usage and data structures that have been taught to you during the lectures.
+Design, implement and document a simple card game in the Java programming language.
 The first round of the game starts with all players having the same number of cards in their deck, and the cards are facing down (i.e. not visible to the play-ers); all cards have a number of attributes, each attribute having a numerical value, e.g. a digit from 0 to 9 (inclusive).
 Every player picks up a card from the top of their deck and looks at it.
 The nominated first player then chooses an attribute, say Attribute i, to “play with”; all the players compare the values of this Attribute i on the cards they have picked up.
